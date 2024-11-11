@@ -13,6 +13,7 @@ Key Features:
 5- Statistical Data Dashboards:
 
   Specialist Dashboard: 📊 Provides insights into reviews, profits, and session history for child specialists.
+  
   Admin Dashboard: 📈 Offers a comprehensive overview of the platform, including the best specialists, profits, the total number of conducted sessions and more.
 
 6- Chatting: 💬 Real-time chat functionality to enhance communication and coordination between parents and specialists.
